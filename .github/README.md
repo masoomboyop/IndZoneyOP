@@ -1,7 +1,5 @@
-<h1 align="center">Repo Type management bot</h1>
-<h3 align="center">GROUP MANAGEMENT REPOSITORY</h3>
+<h3 align="center">TELEGRAM GROUP MANAGEMENT REPOSITORY</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
